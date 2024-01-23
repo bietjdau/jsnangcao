@@ -1,0 +1,3 @@
+- Bước 1 : tạo thư mục client and sever
+- Bước 2 : Xây dụng UI
+- BOottrap / tailwind
